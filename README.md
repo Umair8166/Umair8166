@@ -112,16 +112,6 @@ I'm a passionate **Full-Stack Software Engineer** who loves building scalable, u
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Umair8166/Umair8166/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> ⚠️ To enable the snake animation, create a GitHub Action in your profile repo. See [platane/snk](https://github.com/Platane/snk) for setup instructions.
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
